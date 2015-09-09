@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+.yo-rc.json
+/app/scripts
+.tags
+/test/spec/**/*.js
+/test/spec/**/*.js.map
+/app/tmp
